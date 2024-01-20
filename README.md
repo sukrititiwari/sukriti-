@@ -1,3 +1,3 @@
 # sukriti-
-this is my first repositary
-this is section A
+this is my first repositary.
+this is section A.
